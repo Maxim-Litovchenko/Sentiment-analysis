@@ -8,4 +8,5 @@ The purpose of this project is to examine recall data and analyze the text
      * tokenize
      * Removing stop words
      * lemmatize
+4. Data analyze 
 5. Visualization wordclouds
